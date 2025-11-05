@@ -24,3 +24,4 @@ Les heures supplémentaires,
 Les taux de présence et de ponctualité par service, poste ou période.
 
 Ce tableau de bord offre une vision claire et dynamique de la gestion du temps de travail, facilitant la prise de décision RH et le suivi de la performance individuelle.
+![image_alt](https://github.com/Bidane-Ibrahima/Dashbord_pointage/blob/main/Capture001.PNG?raw=true)
